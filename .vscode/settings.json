@@ -1,0 +1,10 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 13,
+    "files.autoSave": "afterDelay",
+    "workbench.tree.indent": 17,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
